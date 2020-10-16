@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.모기{
+    position: absolute;
+transition: all 0.9s ease}
+
+
+.stuff{
+    position: relative;
+    left: 100px; top: 100px;
+    
+}
+
+.stuff2{
+    position: relative;
+    left: 250px; top: 50px;
+}
+
+.box {transition: all 0.3s ease-in-out;}
